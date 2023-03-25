@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Statistiques et Analyse de Données
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/wr0124/2022DU_statitics 
 importance: 3
 category: work
 ---
