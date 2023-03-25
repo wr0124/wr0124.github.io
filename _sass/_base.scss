@@ -488,7 +488,7 @@ footer.sticky-bottom {
   }
   ol.bibliography {
     list-style: none;
-    padding: 0;
+    padding: left;
     margin-top: 0;
 
     li {
@@ -501,11 +501,13 @@ footer.sticky-bottom {
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
+
+
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left:  -6rem;
+          #padding-right: 1rem;
           a {
             color: white;
             &:hover {
@@ -547,7 +549,7 @@ footer.sticky-bottom {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
+          #padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
@@ -562,7 +564,7 @@ footer.sticky-bottom {
           display: inline-block;
           color: $black-color;
           height: 100%;
-          padding-left: 0.5rem;
+          #padding-left: 0.5rem;
           vertical-align: middle;
           &:hover {
             text-decoration: underline;
