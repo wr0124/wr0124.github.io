@@ -15,62 +15,62 @@
       institution: Ecole Centrale de Marseille
       year: 2023
       description:
-        - Postgraduate en transformation numérique
+        - Postgraduate in digital transformation
         - Artificial Intelligence
         - title: Skills
           contents:
-            - Artificial Intelligence (AI) · Deep Learning · Scientific Writing · Analytical Skills · Python (Programming Language) · Machine Learning
+            - Artificial Intelligence (AI) · Deep Learning · Scientific Writing · Analytical Skills · Programming Language · Machine Learning
     - title: Data Analyste
       institution: University of Cergy-Pontoise
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Graduate in data analyst
+        # - Description 2.
         - title: Skills
           contents:
-            - Scientific Writing · Analytical Skills · Data Visualization · Data Cleaning,python · machine learning
+            - Data cleaning and preparation · Data analysis and exploration · Statistical knowledge · Creating data visualizations · Creating dashboards and reports · Writing and communication · Domain knowledge · Problem solving · Scientific Writing · Programming · Machine learning
     - title: PhD
       institution: Central China Normal University
       year: 2009
       description:
         - Theoretical physics
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Doctoral dissertation Opinion dynamics on the complex networks
+          # contents:
+          #   - Sub-description 1.
+          #   - Sub-description 2.
 
 
 - title: Experience
   type: time_table
   contents:
     - title: Membre associé
-      institution: SCIQ (Systèmes Complexe et Information Quantique) de l'ESIEA 
+      institution: SCIQ (Systèmes Complexe et Information Quantique) de l'ESIEA (Laval, France)
       year: 2021 - 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Equipeur
-      institution: Popeyes Louisiana Kitchen (Blagnac) · Permanent Part-time
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Part-time Equipeur
+      institution: Popeyes Louisiana Kitchen (Blagnac, France)  
       year: 2018 - 2019
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
     - title: Traducteurice
-      institution: Groupe Ciléo (Blagnac)
+      institution: Groupe Ciléo (Blagnac, France)
       year: 2016 - 2016
 
     - title: Enseignement du chinois
-      institution: Freelance (Le Mans)
+      institution: Freelance (Le Mans, France)
       year: 2014 - 2016
-      description:
+      # description:
 
     - title: Employee
-      institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS)
+      institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS) (Le Mans, France)
       year: 2014 - 2015
 
     - title: Lecturer
@@ -78,11 +78,11 @@
       year: 2009 - 2013
 
     - title: Postdoc
-      institution: Center for Complex Networks and Systems Research(CNetS) (Indiana University, USA)
+      institution: Center for Complex Networks and Systems Research(CNetS) (Bloomington, United States)
       year: 2012 - 2012 
 
     - title: Postdoc
-      institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS)
+      institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS) (Le Mans, France)
       year: 2010 - 2011
 
 # - title: Open Source Projects
