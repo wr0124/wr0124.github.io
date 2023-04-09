@@ -17,18 +17,18 @@
       description:
         - Postgraduate en transformation numérique
         - Artificial Intelligence
-        - title: Skills:
+        - title: Skills
           contents:
-            - Skills: Artificial Intelligence (AI) · Deep Learning · Scientific Writing · Analytical Skills · Python (Programming Language) · Machine Learning
+            - Artificial Intelligence (AI) · Deep Learning · Scientific Writing · Analytical Skills · Python (Programming Language) · Machine Learning
     - title: Data Analyste
       institution: University of Cergy-Pontoise
       year: 2022
       description:
         - Description 1.
         - Description 2.
-        - title: Skills:
+        - title: Skills
           contents:
-            - Skills: Scientific Writing · Analytical Skills · Data Visualization,Data Cleaning,python, machine learning
+            - Scientific Writing · Analytical Skills · Data Visualization · Data Cleaning,python · machine learning
     - title: PhD
       institution: Central China Normal University
       year: 2009
@@ -85,37 +85,37 @@
       institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS)
       year: 2010 - 2011
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Flute, Piano, Qi Gong
