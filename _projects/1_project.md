@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Data Manupulation
+description: Based on the data exported from website theses.fr
+img: assets/img/7.jpg
+redirect: https://github.com/wr0124/2022DU_manipulation.git
+importance: 3
 category: work
 ---
 

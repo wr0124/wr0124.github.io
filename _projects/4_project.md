@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Open Data Analysis Project
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://github.com/wr0124/2022DU_summer-projet.git
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

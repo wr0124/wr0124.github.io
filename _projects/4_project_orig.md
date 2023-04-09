@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Data Visualization
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://github.com/wr0124/dl_data_visualization_2023.git
+title: project 4
+description: another without an image
+img:
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
