@@ -2,7 +2,7 @@
 layout: page
 title: Data Manupulation
 description: Based on the data exported from website theses.fr
-img: assets/img/7.jpg
+img: assets/img/12.jpg
 redirect: https://github.com/wr0124/2022DU_manipulation.git
 importance: 3
 category: work

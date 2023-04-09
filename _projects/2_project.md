@@ -2,7 +2,7 @@
 layout: page
 title: Data Visualization
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/3.jpg
 redirect: https://github.com/wr0124/dl_data_visualization_2023.git
 importance: 3
 category: work
