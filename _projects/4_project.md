@@ -2,7 +2,7 @@
 layout: page
 title: Open Data Analysis Project
 #description: a project that redirects to another website
-img: assets/img/13.jpg
+img: assets/img/12.jpg
 redirect: https://github.com/wr0124/2022DU_summer-projet.git
 importance: 3
 category: work
