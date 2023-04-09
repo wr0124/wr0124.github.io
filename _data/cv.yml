@@ -2,38 +2,50 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ru WANG  
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th January 1982
     - name: Languages
-      value: English, German
+      value: English, French, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Data Scientist
+      institution: Ecole Centrale de Marseille
+      year: 2023
+      description:
+        - Postgraduate en transformation numérique
+        - Artificial Intelligence
+        - title: Skills:
+          contents:
+            - Skills: Artificial Intelligence (AI) · Deep Learning · Scientific Writing · Analytical Skills · Python (Programming Language) · Machine Learning
+    - title: Data Analyste
+      institution: University of Cergy-Pontoise
+      year: 2022
       description:
         - Description 1.
         - Description 2.
+        - title: Skills:
+          contents:
+            - Skills: Scientific Writing · Analytical Skills · Data Visualization,Data Cleaning,python, machine learning
+    - title: PhD
+      institution: Central China Normal University
+      year: 2009
+      description:
+        - Theoretical physics
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Membre associé
+      institution: SCIQ (Systèmes Complexe et Information Quantique) de l'ESIEA 
+      year: 2021 - 2024
       description:
         - Description 1.
         - Description 2.
@@ -41,25 +53,37 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Equipeur
+      institution: Popeyes Louisiana Kitchen (Blagnac) · Permanent Part-time
+      year: 2018 - 2019
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Traducteurice
+      institution: Groupe Ciléo (Blagnac)
+      year: 2016 - 2016
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Enseignement du chinois
+      institution: Freelance (Le Mans)
+      year: 2014 - 2016
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Employee
+      institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS)
+      year: 2014 - 2015
+
+    - title: Lecturer
+      institution: Hua Qiao University (Xiamen, China)
+      year: 2009 - 2013
+
+    - title: Postdoc
+      institution: Center for Complex Networks and Systems Research(CNetS) (Indiana University, USA)
+      year: 2012 - 2012 
+
+    - title: Postdoc
+      institution: Institut supérieur des matériaux et mécaniques avancées (ISMANS)
+      year: 2010 - 2011
 
 - title: Open Source Projects
   type: time_table
