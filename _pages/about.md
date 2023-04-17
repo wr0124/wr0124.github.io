@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there 👋, I am Julie (Ru WANG). I am a Data Scientist.
 
-I’m currently in career transition to Data Scientist. I have a PhD degree in Physics from [Central China Normal University](hhttp://english.ccnu.edu.cn/), worked as a postdoc at the [ISMANS](https://ismans.cesi.fr/) in France and [CNetS](https://cnets.indiana.edu/) in United States. Currently, I'm an associate member at [SCIQ](https://www.esiea.fr/pedagogie/laboratoires/sciq/#associes). I love applying the philosophy of physics into the real-world application. 
+I’m currently in career transition to Data Scientist. I have a PhD degree in Physics from [Central China Normal University](http://english.ccnu.edu.cn/), worked as a postdoc at the [ISMANS](https://ismans.cesi.fr/) in France and [CNetS](https://cnets.indiana.edu/) in United States. Currently, I'm an associate member at [SCIQ](https://www.esiea.fr/pedagogie/laboratoires/sciq/#associes). I love applying the philosophy of physics into the real-world application. 
 
 <p></p>
 <p></p>
