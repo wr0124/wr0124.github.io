@@ -39,5 +39,3 @@ My main interests include:
 <p></p>
 <p></p>
 <p></p>
-
-**Enthousiaste à l'idée d'appliquer l'analyse de données et la théorie de la complexité dans le monde industriel.**
