@@ -17,12 +17,24 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+# Julie Ru WANG PUJOS
 
+Hi there 👋, I am Julie (Ru WANG PUJOS), a **Machine Learning R&D Engineer** with a PhD in Theoretical Physics.
 
+I currently work on applied Machine Learning R&D for industrial applications, with experience in **Computer Vision, Deep Learning, Generative AI, Video AI, object detection and tracking, model training and fine-tuning, and model inference and evaluation**.
 
-Hi there 👋, I am Julie (Ru WANG). I am a Data Scientist.
+My background in theoretical physics has shaped the way I approach Machine Learning: with scientific rigor, curiosity, modeling, experimentation, and a strong interest in understanding the underlying systems.
 
-I’m currently in career transition to Data Scientist. I have a PhD degree in Physics from [Central China Normal University](http://english.ccnu.edu.cn/), worked as a postdoc at the [ISMANS](https://ismans.cesi.fr/) in France and [CNetS](https://cnets.indiana.edu/) in United States. Currently, I'm an associate member at [SCIQ](https://www.esiea.fr/pedagogie/laboratoires/sciq/#associes). I love applying the philosophy of physics into the real-world application. 
+My main interests include:
+- Machine Learning R&D
+- Computer Vision
+- Deep Learning
+- Generative AI
+- Video AI
+- Large Language Models (LLMs)
+- AI for scientific and industrial applications
+
+**Technical stack:** Python, PyTorch, TensorFlow/Keras, Scikit-learn, OpenCV, C++, MATLAB, Pandas, Linux, Git/GitHub, ONNX, TensorRT.
 
 <p></p>
 <p></p>
