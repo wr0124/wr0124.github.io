@@ -5,7 +5,7 @@ title: Open Data Analysis Project
 img: assets/img/13.jpg
 redirect: https://github.com/wr0124/2022DU_summer-projet.git
 importance: 3
-category: work
+category: archive
 ---
 
 Every project has a beautiful feature showcase page.
