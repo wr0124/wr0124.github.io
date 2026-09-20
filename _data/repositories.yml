@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - wr0124
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - wr0124/joliGEN
+  - wr0124/project_Adversarial_Consistency_Models
+  - wr0124/consistency_inpainting_pytorch
