@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of cool projects.
+description: description: Selected Machine Learning R&D projects and open-source contributions.
 nav: true
 nav_order: 2
 display_categories: [work]
