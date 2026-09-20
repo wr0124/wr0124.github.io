@@ -5,7 +5,7 @@ title: Data Visualization
 img: assets/img/3.jpg
 redirect: https://github.com/wr0124/dl_data_visualization_2023.git
 importance: 3
-category: work
+category: archive
 ---
 
 Every project has a beautiful feature showcase page.
