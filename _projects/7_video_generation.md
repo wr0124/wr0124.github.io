@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Generative Video for Automotive Applications
