@@ -8,9 +8,9 @@ category: work
 
 ## Overview
 
-Generative Computer Vision project exploring synthetic image generation for driving scenes using image-to-image translation.
+Generative Computer Vision project exploring synthetic image generation for scenes using image-to-image translation.
 
-The objective was to increase environmental diversity by transforming existing driving images into different visual conditions while preserving the structure of the original scenes.
+The objective was to increase environmental diversity by transforming existing images into different visual conditions while preserving the structure of the original scenes.
 
 ## My contribution
 
