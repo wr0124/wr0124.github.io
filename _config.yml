@@ -13,7 +13,7 @@ email: wr0124@gmail.com
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: machine-learning, deep-learning, computer-vision, generative-ai, video-ai, artificial-intelligence, research-engineer, pytorch
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -63,19 +63,19 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-# github_username: # your GitHub user name
+github_username: wr0124  
 # gitlab_username: # your GitLab user name
 # twitter_username: # your Twitter handle
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-# linkedin_username: # your LinkedIn user name
+linkedin_username: wr0124
 # telegram_username: # your Telegram user name
 # scholar_userid: # your Google Scholar ID
 # semanticscholar_id: # your Semantic Scholar ID
@@ -260,8 +260,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: WANG [Einstein]
-  first_name: Julie Ru[Albert, A.]
+  last_name: [Wang, WANG]
+  first_name: [Ru, Ru Julie, Julie Ru, R.]
 
   style: apa
   locale: en
