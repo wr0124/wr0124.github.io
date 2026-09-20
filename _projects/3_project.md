@@ -5,7 +5,7 @@ title: Statistics and Data Analysis
 img: assets/img/7.jpg
 redirect: https://github.com/wr0124/2022DU_statitics 
 importance: 3
-category: work
+category: archive
 ---
 
 Every project has a beautiful feature showcase page.
