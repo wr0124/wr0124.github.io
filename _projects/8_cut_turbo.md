@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Synthetic Image Generation with CUT / CUT-Turbo
-description: Generative Computer Vision project for synthetic driving-scene generation using image-to-image translation.
+description: Generative Computer Vision project for synthetic scene generation using image-to-image translation.
 importance: 4
 category: work
 ---
